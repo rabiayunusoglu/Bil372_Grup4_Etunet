@@ -1,0 +1,1 @@
+<h1> WELCOME TO PAGE OF <?php echo $current_course['course_name']; ?> COURSE </h1>
